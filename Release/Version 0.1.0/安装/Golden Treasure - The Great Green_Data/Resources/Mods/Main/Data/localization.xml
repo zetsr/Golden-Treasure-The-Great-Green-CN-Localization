@@ -1,0 +1,2094 @@
+<localization>
+<text>
+	<id>KEY</id>
+	<value>ENGLISH</value>
+</text>
+<text>
+	<id>locale_name</id>
+	<value>en-US</value>
+</text>
+<text>
+	<id>date_format</id>
+	<value>MMM dd yyyy</value>
+</text>
+<text>
+	<id>gender_1</id>
+	<value>n,the ,a ,,,</value>
+</text>
+<text>
+	<id>gender_2</id>
+	<value>n2,the ,an ,,,</value>
+</text>
+<text>
+	<id>gender_3</id>
+	<value></value>
+</text>
+<text>
+	<id>period</id>
+	<value>.</value>
+</text>
+<text>
+	<id>ui_mainmenu_newgame</id>
+	<value>新的轮回</value>
+</text>
+<text>
+	<id>ui_mainmenu_continue</id>
+	<value>继续</value>
+</text>
+<text>
+	<id>ui_mainmenu_settings</id>
+	<value>设置</value>
+</text>
+<text>
+	<id>ui_mainmenu_gallery</id>
+	<value>画廊</value>
+</text>
+<text>
+	<id>ui_mainmenu_credits</id>
+	<value>致谢</value>
+</text>
+<text>
+	<id>ui_mainmenu_quit</id>
+	<value>退出</value>
+</text>
+<text>
+	<id>splash_presents</id>
+	<value>presents</value>
+</text>
+<text>
+	<id>splash_agameby</id>
+	<value>a game by</value>
+</text>
+<text>
+	<id>credits_dreamingdooris</id>
+	<value>dreaming door is:</value>
+</text>
+<text>
+	<id>ordinal_1</id>
+	<value>first</value>
+</text>
+<text>
+	<id>ordinal_2</id>
+	<value>second</value>
+</text>
+<text>
+	<id>ordinal_3</id>
+	<value>third</value>
+</text>
+<text>
+	<id>ordinal_4</id>
+	<value>fourth</value>
+</text>
+<text>
+	<id>ordinal_5</id>
+	<value>fifth</value>
+</text>
+<text>
+	<id>ordinal_6</id>
+	<value>sixth</value>
+</text>
+<text>
+	<id>ordinal_7</id>
+	<value>seventh</value>
+</text>
+<text>
+	<id>ordinal_8</id>
+	<value>eigth</value>
+</text>
+<text>
+	<id>ordinal_9</id>
+	<value>ninth</value>
+</text>
+<text>
+	<id>ordinal_10</id>
+	<value>tenth</value>
+</text>
+<text>
+	<id>ordinal_10_alternate</id>
+	<value>ultimate</value>
+</text>
+<text>
+	<id>element_fire</id>
+	<value>Fire,n</value>
+</text>
+<text>
+	<id>element_earth</id>
+	<value>Earth,n2</value>
+</text>
+<text>
+	<id>element_air</id>
+	<value>Air,n2</value>
+</text>
+<text>
+	<id>element_water</id>
+	<value>Water,n</value>
+</text>
+<text>
+	<id>ui_settings_title</id>
+	<value>设置</value>
+</text>
+<text>
+	<id>ui_settings_sound</id>
+	<value>音量</value>
+</text>
+<text>
+	<id>ui_settings_visuals</id>
+	<value>显示</value>
+</text>
+<text>
+	<id>ui_settings_coloredtext</id>
+	<value>彩色文本</value>
+</text>
+<text>
+	<id>ui_settings_fullscreen</id>
+	<value>全屏</value>
+</text>
+<text>
+	<id>ui_settings_mainmenu</id>
+	<value>主菜单</value>
+</text>
+<text>
+	<id>ui_settings_quit</id>
+	<value>退出</value>
+</text>
+<text>
+	<id>ui_settings_skipchasescenes</id>
+	<value>跳过追逐场景</value>
+</text>
+<text>
+	<id>ui_settings_bgparallax</id>
+	<value>背景视差效果</value>
+</text>
+<text>
+	<id>ui_settings_language</id>
+	<value>语言</value>
+</text>
+<text>
+	<id>ui_profile</id>
+	<value>中文本地化 By Kiana</value>
+</text>
+<text>
+	<id>ui_profile_new</id>
+	<value>+ 新存档</value>
+</text>
+<text>
+	<id>ui_profile_selected</id>
+	<value>选中的存档</value>
+</text>
+<text>
+	<id>ui_mods_list</id>
+	<value>模组列表</value>
+</text>
+<text>
+	<id>ui_mods_reorder</id>
+	<value>拖动以更改排序</value>
+</text>
+<text>
+	<id>ui_mod_info</id>
+	<value>信息</value>
+</text>
+<text>
+	<id>ui_profile_duplicate</id>
+	<value>重命名并复制存档</value>
+</text>
+<text>
+	<id>ui_profile_delete</id>
+	<value>删除存档</value>
+</text>
+<text>
+	<id>ui_profile_title</id>
+	<value>存档</value>
+</text>
+<text>
+	<id>ui_profile_select</id>
+	<value>选择一个存档以载入</value>
+</text>
+<text>
+	<id>ui_yes</id>
+	<value>好的</value>
+</text>
+<text>
+	<id>ui_no</id>
+	<value>不</value>
+</text>
+<text>
+	<id>ui_cancel</id>
+	<value>取消</value>
+</text>
+<text>
+	<id>ui_continue</id>
+	<value>继续</value>
+</text>
+<text>
+	<id>ui_close</id>
+	<value>关闭</value>
+</text>
+<text>
+	<id>ui_combat_flee</id>
+	<value>Flee the battle.</value>
+</text>
+<text>
+	<id>ui_combat_fire</id>
+	<value>Use a Fire ability.</value>
+</text>
+<text>
+	<id>ui_combat_water</id>
+	<value>Use a Water ability.</value>
+</text>
+<text>
+	<id>ui_combat_earth</id>
+	<value>Use an Earth ability.</value>
+</text>
+<text>
+	<id>ui_combat_air</id>
+	<value>Use an Air ability.</value>
+</text>
+<text>
+	<id>ui_combat_treasure</id>
+	<value>Use a Treasure.</value>
+</text>
+<text>
+	<id>save_minute_ago</id>
+	<value>less than a minute ago</value>
+</text>
+<text>
+	<id>save_minutes_ago</id>
+	<value>{1} minute{plural:{1}||s} ago</value>
+</text>
+<text>
+	<id>save_hour_ago</id>
+	<value>more than an hour ago</value>
+</text>
+<text>
+	<id>ui_quit_confirm_time</id>
+	<value>The game was last saved {saveTime:}.\nAre you sure you want to quit the game?</value>
+</text>
+<text>
+	<id>ui_quit_confirm</id>
+	<value>你确定要退出游戏吗？</value>
+</text>
+<text>
+	<id>ui_profile_default</id>
+	<value>Default</value>
+</text>
+<text>
+	<id>ui_profile_created</id>
+	<value>创建于</value>
+</text>
+<text>
+	<id>ui_profile_opened</id>
+	<value>打开于</value>
+</text>
+<text>
+	<id>ui_profile_modified_pending</id>
+	<value>模组状态等待中</value>
+</text>
+<text>
+	<id>ui_profile_unmodified</id>
+	<value>未修改的存档</value>
+</text>
+<text>
+	<id>ui_profile_modified</id>
+	<value>已修改的存档</value>
+</text>
+<text>
+	<id>ui_save_part</id>
+	<value>In Part {1}</value>
+</text>
+<text>
+	<id>ui_save_awakenings</id>
+	<value>{1} Reawakening{plural:{1}||s} left</value>
+</text>
+<text>
+	<id>ui_profile_delete_confirm</id>
+	<value>你确定要删除 &apos;{1}&apos; 吗？</value>
+</text>
+<text>
+	<id>ui_profile_name_new</id>
+	<value>输入新存档的名称</value>
+</text>
+<text>
+	<id>ui_profile_name_invalid</id>
+	<value>名称无效</value>
+</text>
+<text>
+	<id>ui_mod_not_found</id>
+	<value>{1} 无法找到。请确保该模组已正确安装。</value>
+</text>
+<text>
+	<id>ui_profile_duplicate_confirm</id>
+	<value>你想在更改模组之前复制此存档吗？</value>
+</text>
+<text>
+	<id>ui_mod_author</id>
+	<value>作者</value>
+</text>
+<text>
+	<id>ui_mod_version</id>
+	<value>版本</value>
+</text>
+<text>
+	<id>ui_mod_description_none</id>
+	<value>无说明。</value>
+</text>
+<text>
+	<id>ui_mod_order_tooltip</id>
+	<value>列表顶部的模组会首先加载。模组应放在其依赖项的下方。</value>
+</text>
+<text>
+	<id>ui_mod_dir_tooltip_title</id>
+	<value>打开模组目录</value>
+</text>
+<text>
+	<id>ui_mod_dir_tooltip_desc</id>
+	<value>将模组文件夹放在此目录内。</value>
+</text>
+<text>
+	<id>ui_mod_website_tooltip_title</id>
+	<value>访问模组网站</value>
+</text>
+<text>
+	<id>ui_mod_website_tooltip_desc</id>
+	<value>查找社区上传的模组，并使用Story Creator工具包创建自己的模组。</value>
+</text>
+<text>
+	<id>ui_date_created</id>
+	<value>创建日期</value>
+</text>
+<text>
+	<id>ui_last_opened</id>
+	<value>上次打开</value>
+</text>
+<text>
+	<id>mod_Main_title</id>
+	<value>Main</value>
+</text>
+<text>
+	<id>mod_Main_desc</id>
+	<value>The main game files for Golden Treasure!</value>
+</text>
+<text>
+	<id>mod_timeofcreation_title</id>
+	<value>Time of Creation</value>
+</text>
+<text>
+	<id>mod_timeofcreation_desc</id>
+	<value>The official expansion to Golden Treasure!</value>
+</text>
+<text>
+	<id>treasure_none_1</id>
+	<value>你目前没有任何宝藏。</value>
+</text>
+<text>
+	<id>treasure_none_2</id>
+	<value>Explore your surroundings and take on challenges to discover shiny things and valuable artifacts.</value>
+</text>
+<text>
+	<id>statdistributor_title</id>
+	<value>Craft a new Essence from the Elements of Reality.</value>
+</text>
+<text>
+	<id>statdistributor_warning</id>
+	<value>Some favor with the Great Four yet remains.\nAre you sure you want to begin with less?</value>
+</text>
+<text>
+	<id>prey_baretailcoterie</id>
+	<value>Baretail Coterie,n</value>
+</text>
+<text>
+	<id>prey_baretailfirebearer</id>
+	<value>Firebearer,n</value>
+</text>
+<text>
+	<id>prey_blackburn</id>
+	<value>Blackburn,n</value>
+</text>
+<text>
+	<id>prey_blazetail</id>
+	<value>Blazetail,n</value>
+</text>
+<text>
+	<id>prey_bloom</id>
+	<value>Bloom,n</value>
+</text>
+<text>
+	<id>prey_bluebaretail</id>
+	<value>Blue Baretail,n</value>
+</text>
+<text>
+	<id>prey_burningone</id>
+	<value>Burning One,n</value>
+</text>
+<text>
+	<id>prey_clansinger</id>
+	<value>Clansinger,n</value>
+</text>
+<text>
+	<id>prey_clansinger_clan</id>
+	<value>Clansinger Clan,n</value>
+</text>
+<text>
+	<id>prey_ClansingerPack</id>
+	<value>Clansinger Pack,n</value>
+</text>
+<text>
+	<id>prey_Darksweet</id>
+	<value>Darksweet,n</value>
+</text>
+<text>
+	<id>prey_dayskyclaw</id>
+	<value>Day Skyclaw,n</value>
+</text>
+<text>
+	<id>prey_DeathbiteTailbeast</id>
+	<value>Deathbite Tailbeast,n</value>
+</text>
+<text>
+	<id>prey_flare</id>
+	<value>Flare,n</value>
+</text>
+<text>
+	<id>prey_greatgrazer</id>
+	<value>Great Grazer,n</value>
+</text>
+<text>
+	<id>prey_greathornSurefoot</id>
+	<value>Greathorn Surefoot,n</value>
+</text>
+<text>
+	<id>prey_greatlumberer</id>
+	<value>Great Lumberer,n</value>
+</text>
+<text>
+	<id>prey_greatslideclaw</id>
+	<value>Great Slideclaw,n</value>
+</text>
+<text>
+	<id>prey_GreatSpearbill</id>
+	<value>Great Spearbill,n</value>
+</text>
+<text>
+	<id>prey_GreatStinkstrike</id>
+	<value>Great Stinkstrike,n</value>
+</text>
+<text>
+	<id>prey_DiseasedGreatStinkstrike</id>
+	<value>Great Stinkstrike,n</value>
+</text>
+<text>
+	<id>prey_hillback</id>
+	<value>Hillback,n</value>
+</text>
+<text>
+	<id>prey_layerwing</id>
+	<value>Layerwing,n</value>
+</text>
+<text>
+	<id>prey_lesserlumberer</id>
+	<value>Lesser Lumberer,n</value>
+</text>
+<text>
+	<id>prey_LesserSlideclaw</id>
+	<value>Lesser Slideclaw,n</value>
+</text>
+<text>
+	<id>prey_LesserSpearbill</id>
+	<value>Lesser Spearbill,n</value>
+</text>
+<text>
+	<id>prey_LesserStinkstrike</id>
+	<value>Lesser Stinkstrike,n</value>
+</text>
+<text>
+	<id>prey_Longear</id>
+	<value>Longear,n</value>
+</text>
+<text>
+	<id>prey_longscale</id>
+	<value>Longscale,n</value>
+</text>
+<text>
+	<id>prey_longscalechieftain</id>
+	<value>Longscale Cheiftain,n</value>
+</text>
+<text>
+	<id>prey_Lumberkin</id>
+	<value>Lumberkin,n</value>
+</text>
+<text>
+	<id>prey_Lumberkin_warrior</id>
+	<value>Lumberkin,n</value>
+</text>
+<text>
+	<id>prey_nightskyclaw</id>
+	<value>Night Skyclaw,n</value>
+</text>
+<text>
+	<id>prey_old_hunter</id>
+	<value>Mysterious Creature,n</value>
+</text>
+<text>
+	<id>prey_plainsrunner</id>
+	<value>Plainsrunner,n</value>
+</text>
+<text>
+	<id>prey_Prickleback</id>
+	<value>Prickleback,n</value>
+</text>
+<text>
+	<id>prey_Rainscale</id>
+	<value>Rainscale,n</value>
+</text>
+<text>
+	<id>prey_revenant</id>
+	<value>Thing,n</value>
+</text>
+<text>
+	<id>prey_Shellbeast</id>
+	<value>Shellbeast,n</value>
+</text>
+<text>
+	<id>prey_SHIFTSCALE</id>
+	<value>Shiftscale,n</value>
+</text>
+<text>
+	<id>prey_SHIMMERLING</id>
+	<value>Shimmerling,n</value>
+</text>
+<text>
+	<id>prey_shorttailslideclaw</id>
+	<value>Shorttail Slideclaw,n</value>
+</text>
+<text>
+	<id>prey_slave_clansinger</id>
+	<value>Clansinger,n</value>
+</text>
+<text>
+	<id>prey_SleepingTaillessHunter</id>
+	<value>Tailless Hunter,n</value>
+</text>
+<text>
+	<id>prey_Snowfeather</id>
+	<value>Snowfeather,n</value>
+</text>
+<text>
+	<id>prey_Sunsinger</id>
+	<value>Suncaller,n</value>
+</text>
+<text>
+	<id>prey_Surefoot</id>
+	<value>Surefoot,n</value>
+</text>
+<text>
+	<id>prey_SurefootSlave</id>
+	<value>Surefoot Slave,n</value>
+</text>
+<text>
+	<id>prey_Tailbeast</id>
+	<value>Tailbeast,n</value>
+</text>
+<text>
+	<id>prey_TaillessHunter</id>
+	<value>Tailless Hunter,n</value>
+</text>
+<text>
+	<id>prey_TaillessWarrior</id>
+	<value>Tailless Warrior,n</value>
+</text>
+<text>
+	<id>prey_targetdummy</id>
+	<value>Target Dummy,n</value>
+</text>
+<text>
+	<id>prey_tempest</id>
+	<value>Tempest,n</value>
+</text>
+<text>
+	<id>prey_tempest_act2</id>
+	<value>Tempest,n</value>
+</text>
+<text>
+	<id>prey_Treetail</id>
+	<value>Treetail,n</value>
+</text>
+<text>
+	<id>prey_tusksnortbirther</id>
+	<value>Tusksnort Birther,n</value>
+</text>
+<text>
+	<id>prey_tusksnortgiver</id>
+	<value>Tusksnort Giver,n</value>
+</text>
+<text>
+	<id>prey_tusksnorthatchling</id>
+	<value>Tusksnort Hatchling,n</value>
+</text>
+<text>
+	<id>prey_tutorialtreetail</id>
+	<value>Treetail,n</value>
+</text>
+<text>
+	<id>prey_tutoriallongear</id>
+	<value>Injured Longear,n</value>
+</text>
+<text>
+	<id>prey_waterwing</id>
+	<value>Waterwing,n</value>
+</text>
+<text>
+	<id>prey_whisper</id>
+	<value>Whisper,n</value>
+</text>
+<text>
+	<id>prey_whiteblack</id>
+	<value>Whiteblack,n</value>
+</text>
+<text>
+	<id>prey_WoodsrunnerBirther</id>
+	<value>Woodstrider Birther,n</value>
+</text>
+<text>
+	<id>prey_WoodsrunnerGiver</id>
+	<value>Woodstrider Giver,n</value>
+</text>
+<text>
+	<id>prey_WoodsrunnerHatchling</id>
+	<value>Woodstrider Hatchling,n</value>
+</text>
+<text>
+	<id>prey_Dragonslayers</id>
+	<value>Slayer Clan,n</value>
+</text>
+<text>
+	<id>prey_Shield</id>
+	<value>Shielded Notail,n</value>
+</text>
+<text>
+	<id>prey_Vantage</id>
+	<value>Vantage,n</value>
+</text>
+<text>
+	<id>prey_Unforgetting</id>
+	<value>Unforgetting,n</value>
+</text>
+<text>
+	<id>prey_Violent</id>
+	<value>Violent,n</value>
+</text>
+<text>
+	<id>prey_Warden</id>
+	<value>Warden,n</value>
+</text>
+<text>
+	<id>prey_Agony</id>
+	<value>Agony,n</value>
+</text>
+<text>
+	<id>prey_Last</id>
+	<value>Last,n</value>
+</text>
+<text>
+	<id>prey_NeverEver</id>
+	<value>Never Ever,n</value>
+</text>
+<text>
+	<id>prey_FEASTLING</id>
+	<value>Feastling,n</value>
+</text>
+<text>
+	<id>prey_BERRYBACK</id>
+	<value>Berryback,n</value>
+</text>
+<text>
+	<id>prey_DEATHPIT</id>
+	<value>Deathpit,n</value>
+</text>
+<text>
+	<id>prey_SHREDDER</id>
+	<value>Shredder,n</value>
+</text>
+<text>
+	<id>prey_WEAVER</id>
+	<value>Weaver,n</value>
+</text>
+<text>
+	<id>prey_ARMORLING</id>
+	<value>Armorling,n</value>
+</text>
+<text>
+	<id>prey_SPRINGTAIL</id>
+	<value>Springtail,n</value>
+</text>
+<text>
+	<id>prey_WOODEATER</id>
+	<value>Woodeater,n</value>
+</text>
+<text>
+	<id>prey_TITAN</id>
+	<value>Titan,n</value>
+</text>
+<text>
+	<id>prey_UltraShellbeast</id>
+	<value>Ultra Shellbeast,n</value>
+</text>
+<text>
+	<id>prey_TaillessChief</id>
+	<value>Tailless Chief,n</value>
+</text>
+<text>
+	<id>prey_twist</id>
+	<value>Twist,n</value>
+</text>
+<text>
+	<id>prey_rift</id>
+	<value>Rift,n</value>
+</text>
+<text>
+	<id>goodbeast_mastery_none</id>
+	<value>The Way of these Goodbeasts is not known to you. Hunt and observe them to learn their secrets.</value>
+</text>
+<text>
+	<id>tutorial_menu_open</id>
+	<value>A moment of reflection will make your current feelings and thoughts clear. Here you can also see the depth of your relationship with the Four Elements, the basis of all power.</value>
+</text>
+<text>
+	<id>status_poisoned</id>
+	<value>Your Body is suffering from the effects of a terrible poison. This will heal slowly on its own, given time, or much faster if you Rest.</value>
+</text>
+<text>
+	<id>status_fire</id>
+	<value>The Fire element governs your physical strength and ferocity as well as the power of your fiery breath.</value>
+</text>
+<text>
+	<id>status_earth</id>
+	<value>The Earth element governs patience, endurance, health and fortitude.</value>
+</text>
+<text>
+	<id>status_water</id>
+	<value>The Water element governs your perception, empathy and your ability to sense and channel the flowing subtle energies of the world.</value>
+</text>
+<text>
+	<id>status_air</id>
+	<value>The Air element governs quickness and intellect. Agility of both body and mind belong to this sphere.</value>
+</text>
+<text>
+	<id>elem_enlightenment_none</id>
+	<value>You have &lt;bold&gt;not yet achieved&lt;/bold&gt; the first degree of enlightenment in the element of {1}.</value>
+</text>
+<text>
+	<id>elem_enlightenment_some</id>
+	<value>You have reached the &lt;bold&gt;{3}&lt;/bold&gt; grade of enlightenment in {1}.</value>
+</text>
+<text>
+	<id>elem_no_modifiers</id>
+	<value>Nothing is currently affecting this element.</value>
+</text>
+<text>
+	<id>gem_mastery_none</id>
+	<value>You have not yet reached any grade of mastery in the {1} element.</value>
+</text>
+<text>
+	<id>gem_mastery_some</id>
+	<value>You have achieved the {3} grade of mastery in the {1} element.</value>
+</text>
+<text>
+	<id>merit_mastery_none</id>
+	<value>You have achieved no grade of Mastery in the {1} Element.</value>
+</text>
+<text>
+	<id>merit_mastery_some</id>
+	<value>You have achieved the {3} grade of mastery in the {1} element.</value>
+</text>
+<text>
+	<id>map_explore_confirm</id>
+	<value>Would you like to explore this area?</value>
+</text>
+<text>
+	<id>combat_abilities</id>
+	<value>Abilities</value>
+</text>
+<text>
+	<id>abilities_none</id>
+	<value>None yet.</value>
+</text>
+<text>
+	<id>ability_activate</id>
+	<value>Activate</value>
+</text>
+<text>
+	<id>door_test_1</id>
+	<value>&lt;fadeout 0 3 .5 10&gt;&lt;fadein .07 3 .4 3&gt;O lost shard of Infinity, trapped in flesh...</value>
+</text>
+<text>
+	<id>door_test_2</id>
+	<value>&lt;fadeout 0 3 .5 16.5&gt;&lt;fadein .07 3 .4 11.5&gt;Knower of the Great Four...&lt;/fadein&gt;</value>
+</text>
+<text>
+	<id>door_test_3</id>
+	<value>&lt;fadeout 0 3 .5 23&gt;&lt;fadein .07 3 .4 18&gt;Reality exists in layers.&lt;/fadein&gt;</value>
+</text>
+<text>
+	<id>door_test_4</id>
+	<value>&lt;fadeout 0 3 .5 31.5&gt;&lt;fadein .07 3 .4 24.5&gt;In Dreams lies the Door which leads Between.&lt;/fadein&gt;</value>
+</text>
+<text>
+	<id>door_test_5</id>
+	<value>&lt;fadeout 0 3 .5 41&gt;&lt;fadein .07 3 .4 33&gt;Therein lies the Greatest Treasure.&lt;/fadein&gt;</value>
+</text>
+<text>
+	<id>door_test_6</id>
+	<value>&lt;fadein .07 3 .4 42&gt;The First Number was given to the Weavers, hidden within a language unknown.&lt;/fadein&gt;</value>
+</text>
+<text>
+	<id>door_test_7</id>
+	<value>&lt;fadein .07 3 .4 3&gt;The Second Number is kept by the Whiteblacks in their Wisdom, between Gold and Giver.&lt;/fadein&gt;</value>
+</text>
+<text>
+	<id>door_test_8</id>
+	<value>&lt;fadein .07 3 .4 3&gt;The Third Number fled to physicality, but was swallowed by a mighty Waterbound warrior.&lt;/fadein&gt;</value>
+</text>
+<text>
+	<id>combat_action_select_extra</id>
+	<value>Which action will you use with {1}?</value>
+</text>
+<text>
+	<id>combat_retreat_confirm</id>
+	<value>Are you certain you want to flee from this Dance?</value>
+</text>
+<text>
+	<id>combat_disallowed_generic</id>
+	<value>Currently impossible.</value>
+</text>
+<text>
+	<id>combat_disallowed_energy</id>
+	<value>You lack the Energy for this.</value>
+</text>
+<text>
+	<id>combat_element_select</id>
+	<value>Which element will you choose?</value>
+</text>
+<text>
+	<id>combat_action_intro_0</id>
+	<value>What is your will?</value>
+</text>
+<text>
+	<id>combat_action_intro_1</id>
+	<value>What will you do?</value>
+</text>
+<text>
+	<id>combat_action_intro_2</id>
+	<value>What will your action be?</value>
+</text>
+<text>
+	<id>combat_action_intro_3</id>
+	<value>What will you choose?</value>
+</text>
+<text>
+	<id>combat_action_intro_4</id>
+	<value>How will you use this moment?</value>
+</text>
+<text>
+	<id>combat_action_intro_5</id>
+	<value>How will you act?</value>
+</text>
+<text>
+	<id>combat_opening_no_retreat</id>
+	<value>You cannot retreat from this fight. Stand with pride and fight with honor.</value>
+</text>
+<text>
+	<id>combat_opponent_battered</id>
+	<value>Your opponent is &lt;bold&gt;&lt;color ffff00&gt;Battered&lt;/color&gt;&lt;/bold&gt;, and worse for wear - your attacks are having an effect.</value>
+</text>
+<text>
+	<id>combat_opponent_injured</id>
+	<value>The Air grows richer with Fear and Despair - your enemy is now &lt;bold&gt;&lt;color ff8800&gt;Injured&lt;/color&gt;&lt;/bold&gt;.</value>
+</text>
+<text>
+	<id>combat_opponent_crippled</id>
+	<value>The redolent Essence of {TEMP_COMBAT_ARTICLE}{TEMP_COMBAT_PREY_NAME} dances on your tongue... it is &lt;bold&gt;&lt;color ff0000&gt;Crippled&lt;/color&gt;&lt;/bold&gt;, and stands in the very shadow of Destruction.</value>
+</text>
+<text>
+	<id>combat_opponent_not_affected</id>
+	<value>{TEMP_COMBAT_ARTICLE_CAPITAL}{TEMP_COMBAT_PREY_NAME} did not seem to be affected.</value>
+</text>
+<text>
+	<id>combat_self_not_affected</id>
+	<value>You were unaffected by your foe&apos;s attack.</value>
+</text>
+<text>
+	<id>combat_opening_0</id>
+	<value>The Dance of Destruction begins...</value>
+</text>
+<text>
+	<id>combat_opening_1</id>
+	<value>You have cornered {TEMP_COMBAT_ARTICLE}{TEMP_COMBAT_PREY_NAME}, and so begins the Dance of Destruction.</value>
+</text>
+<text>
+	<id>combat_opening_2</id>
+	<value>{TEMP_COMBAT_ARTICLE_CAPITAL}{TEMP_COMBAT_PREY_NAME} cannot escape, and turns to face you in final combat.</value>
+</text>
+<text>
+	<id>combat_opening_3</id>
+	<value>Its precious Essence at stake, {TEMP_COMBAT_ARTICLE}{TEMP_COMBAT_PREY_NAME} now faces you in the Dance of Destruction.</value>
+</text>
+<text>
+	<id>combat_opening_4</id>
+	<value>You must now prepare yourself for the Dance of Destruction...</value>
+</text>
+<text>
+	<id>combat_damage_0</id>
+	<value>light</value>
+</text>
+<text>
+	<id>combat_damage_1</id>
+	<value>moderate</value>
+</text>
+<text>
+	<id>combat_damage_2</id>
+	<value>serious</value>
+</text>
+<text>
+	<id>combat_damage_3</id>
+	<value>severe</value>
+</text>
+<text>
+	<id>combat_damage_4</id>
+	<value>massive</value>
+</text>
+<text>
+	<id>combat_damage_5</id>
+	<value>ultimate</value>
+</text>
+<text>
+	<id>combat_damage_dealt</id>
+	<value>You deal {3} damage to {TEMP_COMBAT_ARTICLE}{TEMP_COMBAT_PREY_NAME}.</value>
+</text>
+<text>
+	<id>combat_damage_received</id>
+	<value>{TEMP_COMBAT_ARTICLE_CAPITAL}{TEMP_COMBAT_PREY_NAME} deals {3} damage to you.</value>
+</text>
+<text>
+	<id>combat_vs_spike</id>
+	<value>You reel back as you chomp into its spikes, taking {1} damage!</value>
+</text>
+<text>
+	<id>combat_vs_spine</id>
+	<value>You reel back as you chomp into its sharp spines, taking {1} damage!</value>
+</text>
+<text>
+	<id>combat_vs_armor_win</id>
+	<value>You feel the force of its armor pushing back against your attack!</value>
+</text>
+<text>
+	<id>combat_vs_armor_lose</id>
+	<value>You bounce off of its armor with a thud!</value>
+</text>
+<text>
+	<id>combat_vs_immune_fire</id>
+	<value>Your fire seems to have no effect!</value>
+</text>
+<text>
+	<id>combat_vs_immune_mind</id>
+	<value>Your foe seems unaffected by your mental attack!</value>
+</text>
+<text>
+	<id>combat_poisoned</id>
+	<value>Some cold-burning substance has been injected into your Essence by your foe, and you are distracted by the pain, nausea and weakness which it brings.</value>
+</text>
+<text>
+	<id>combat_severe_poisoned</id>
+	<value>Your precious Body screams out in painful alarm - something foreign and terrible has been injected into your Essence, and is now attacking you from the inside. The agony slowly spreads, crippling your ability to act and think.</value>
+</text>
+<text>
+	<id>combat_ts_dominion_resisted</id>
+	<value>{TEMP_COMBAT_ARTICLE_CAPITAL}{TEMP_COMBAT_PREY_NAME} resists your power!</value>
+</text>
+<text>
+	<id>combat_ability_locked</id>
+	<value>This ability is temporarily locked.</value>
+</text>
+<text>
+	<id>combat_ts_healing_removed</id>
+	<value>Depleted.</value>
+</text>
+<text>
+	<id>combat_disallowed_non_attack</id>
+	<value>You must select an attack.</value>
+</text>
+<text>
+	<id>combat_player_retreat_win</id>
+	<value>You end the Dance and flee away.</value>
+</text>
+<text>
+	<id>combat_opponent_retreat_win</id>
+	<value>{TEMP_COMBAT_ARTICLE_CAPITAL}{TEMP_COMBAT_PREY_NAME}, smelling its own Destruction, flees. It is too swift to follow, and is soon gone.</value>
+</text>
+<text>
+	<id>combat_retreat_blocked</id>
+	<value>You cannot flee from this fight</value>
+</text>
+<text>
+	<id>combat_player_retreat_fail</id>
+	<value>You attempt to flee, but your opponent is too quick - the Dance continues!</value>
+</text>
+<text>
+	<id>combat_opponent_retreat_fail</id>
+	<value>{TEMP_COMBAT_ARTICLE_CAPITAL}{TEMP_COMBAT_PREY_NAME} attempts to flee, but is no match for your speed - the Dance continues!</value>
+</text>
+<text>
+	<id>blue_rat_charge</id>
+	<value>Beatific Underground Redolence Now Meandering Eternally!!!</value>
+</text>
+<text>
+	<id>knowledge_attackpattern</id>
+	<value>Attack Pattern</value>
+</text>
+<text>
+	<id>event_hidden_option</id>
+	<value>There is a hidden option.</value>
+</text>
+<text>
+	<id>event_hidden_options</id>
+	<value>There are &lt;bold&gt;{1}&lt;/bold&gt; hidden options.</value>
+</text>
+<text>
+	<id>gallery_page_number</id>
+	<value>第 {1} 页，共 {2} 页</value>
+</text>
+<text>
+	<id>galley_artist</id>
+	<value>Artist</value>
+</text>
+<text>
+	<id>galley_writing_credit</id>
+	<value>Author</value>
+</text>
+<text>
+	<id>galley_commentary</id>
+	<value>Commentary</value>
+</text>
+<text>
+	<id>math_result</id>
+	<value>What is the result?</value>
+</text>
+<text>
+	<id>math_add_one</id>
+	<value>, add {1}</value>
+</text>
+<text>
+	<id>math_add_two</id>
+	<value>Add {1} to {2}</value>
+</text>
+<text>
+	<id>math_subtract_one</id>
+	<value>, subtract {1}</value>
+</text>
+<text>
+	<id>math_subtract_two</id>
+	<value>Subtract {1} from {2}</value>
+</text>
+<text>
+	<id>math_multiply_one</id>
+	<value>, multiply by {1}</value>
+</text>
+<text>
+	<id>math_multiply_two</id>
+	<value>Multiply {1} by {2}</value>
+</text>
+<text>
+	<id>treasureselect_base</id>
+	<value>Which Artifacts will you choose to inherit?</value>
+</text>
+<text>
+	<id>treasureselect_selected</id>
+	<value>You have selected {1} out of {2} Artifacts.</value>
+</text>
+<text>
+	<id>treasureselect_warning</id>
+	<value>Are you sure you are finished?\nYou can still select up to {1} Artifact{plural:{1}||s} if you wish.</value>
+</text>
+<text>
+	<id>combat_disallowed_rage</id>
+	<value>You already burn with Rage!</value>
+</text>
+<text>
+	<id>combat_disallowed_stunned</id>
+	<value>You are stunned and can only defend yourself.</value>
+</text>
+<text>
+	<id>combat_disallowed_strangled</id>
+	<value>You are being strangled, and cannot breathe nor sing.</value>
+</text>
+<text>
+	<id>combat_disallowed_underwater</id>
+	<value>By ancient treaty, Fire cannot enter Water&apos;s demesne.</value>
+</text>
+<text>
+	<id>combat_player_battered</id>
+	<value>You are Battered... your wounds are now beginning to slow you down.</value>
+</text>
+<text>
+	<id>combat_player_injured</id>
+	<value>Your Essence shouts crimson... you are now truly Injured.</value>
+</text>
+<text>
+	<id>combat_player_crippled</id>
+	<value>Bright-burning pain sings through you with every heartbeat... you are Crippled, and near Destruction!</value>
+</text>
+<text>
+	<id>hunting_familiar_scent</id>
+	<value>The familiar scent of {1}.</value>
+</text>
+<text>
+	<id>hunting_day_end</id>
+	<value>Retire for this Sun.</value>
+</text>
+<text>
+	<id>lair_energy_critical</id>
+	<value>Your Core is empty, and the Void calls. Find food immediately or be Destroyed.</value>
+</text>
+<text>
+	<id>stalking_observe</id>
+	<value>Keep still. Observe.</value>
+</text>
+<text>
+	<id>stalking_draw_nearer</id>
+	<value>Silently draw nearer.</value>
+</text>
+<text>
+	<id>stalking_strike</id>
+	<value>Strike!</value>
+</text>
+<text>
+	<id>stalking_retreat</id>
+	<value>Retreat.</value>
+</text>
+<text>
+	<id>stalking_auto_chase_win</id>
+	<value>The {1} attempted to run away, but your Air-mastery gave you victory in the chase! Begin the True Dance of Destruction?</value>
+</text>
+<text>
+	<id>stalking_auto_chase_fail</id>
+	<value>The agile {1} has escaped. Its mastery of Air was greater than yours, and a potential meal has been lost.</value>
+</text>
+<text>
+	<id>stalking_auto_chase_confirm</id>
+	<value>Indeed! Let us Dance!</value>
+</text>
+<text>
+	<id>stalking_auto_chase_cancel</id>
+	<value>No, not this Sun.</value>
+</text>
+<text>
+	<id>stalking_chase_confirm</id>
+	<value>Chase after it!</value>
+</text>
+<text>
+	<id>stalking_chase_cancel</id>
+	<value>Give up.</value>
+</text>
+<text>
+	<id>stalking_prey_afraid</id>
+	<value>It notices you and flees.</value>
+</text>
+<text>
+	<id>stalking_prey_impassive</id>
+	<value>It notices you but doesn&apos;t seem to care.</value>
+</text>
+<text>
+	<id>stalking_prey_defensive</id>
+	<value>It notices you and readies itself for battle.</value>
+</text>
+<text>
+	<id>stalking_prey_aggressive</id>
+	<value>It notices you and turns to attack.</value>
+</text>
+<text>
+	<id>stalking_combat_confirm</id>
+	<value>Begin the Dance of Destruction.</value>
+</text>
+<text>
+	<id>stalking_combat_cancel</id>
+	<value>Give up.</value>
+</text>
+<text>
+	<id>stalking_scent_0</id>
+	<value>You have caught the scent of a {1} on the breeze.</value>
+</text>
+<text>
+	<id>stalking_scent_1</id>
+	<value>The taste of {1} Essence is upon the Air.</value>
+</text>
+<text>
+	<id>stalking_scent_2</id>
+	<value>Your keen senses have revealed the presence of a {1} here.</value>
+</text>
+<text>
+	<id>stalking_scent_3</id>
+	<value>You encounter a {1} foraging for food, following the Way of its people.</value>
+</text>
+<text>
+	<id>stalking_scent_4</id>
+	<value>The Wind has spoken to your nose and ears, bringing tidings of a {1} in the area.</value>
+</text>
+<text>
+	<id>stalking_oblivious_0</id>
+	<value>It seems completely oblivious to your presence.</value>
+</text>
+<text>
+	<id>stalking_oblivious_1</id>
+	<value>It is, as of yet, ignorant of you.</value>
+</text>
+<text>
+	<id>stalking_oblivious_2</id>
+	<value>It makes no sign of acknowledgement - it seems not to know you are here.</value>
+</text>
+<text>
+	<id>stalking_oblivious_3</id>
+	<value>Its scent is still free from the pungent smell of fear, or even alertness.</value>
+</text>
+<text>
+	<id>stalking_suspicious_0</id>
+	<value>It has paused, and is actively scanning its surroundings.</value>
+</text>
+<text>
+	<id>stalking_suspicious_1</id>
+	<value>Its head is raised and alert. Clearly, it senses something amiss.</value>
+</text>
+<text>
+	<id>stalking_suspicious_2</id>
+	<value>You begin to taste Fear, the betrayer and empowerer, radiating from it.</value>
+</text>
+<text>
+	<id>stalking_suspicious_3</id>
+	<value>From its posture, you know that it is not ignorant of the fact that danger may be near.</value>
+</text>
+<text>
+	<id>stalking_immediate_0</id>
+	<value>It is so near that you could reach out and touch it with your talons.</value>
+</text>
+<text>
+	<id>stalking_immediate_1</id>
+	<value>It is less than a body&apos;s length away from you... so very, very close...</value>
+</text>
+<text>
+	<id>stalking_immediate_2</id>
+	<value>It is so close... the scent of its Essence stokes the fires within your Core...</value>
+</text>
+<text>
+	<id>stalking_near_0</id>
+	<value>It is not very far away... if you dashed at it now, it would be only several heartbeats...</value>
+</text>
+<text>
+	<id>stalking_near_1</id>
+	<value>While not immediately in front of you, it is not far either. Will you strike now, or...?</value>
+</text>
+<text>
+	<id>stalking_near_2</id>
+	<value>It is still possible to draw closer to it, but at this range, you can make out its markings...</value>
+</text>
+<text>
+	<id>stalking_far_0</id>
+	<value>At the moment, it is far from you.</value>
+</text>
+<text>
+	<id>stalking_far_1</id>
+	<value>It remains yet just on the edge of your senses, a great distance away.</value>
+</text>
+<text>
+	<id>stalking_far_2</id>
+	<value>Its Body and yours are nowhere near each other.</value>
+</text>
+<text>
+	<id>stalking_far_3</id>
+	<value>A great distance still remains to close before you are near to it.</value>
+</text>
+<text>
+	<id>stalking_far_4</id>
+	<value>It is not yet in clear sight, still far away.</value>
+</text>
+<text>
+	<id>stalking_wind_1</id>
+	<value>The wind is not in your favor, and carries your scent directly to your prey. You must move quickly if you wish to sneak up on it.</value>
+</text>
+<text>
+	<id>stalking_wind_2</id>
+	<value>The wind is neutral, and will not affect this hunt.</value>
+</text>
+<text>
+	<id>stalking_wind_3</id>
+	<value>The wind favors you this hunt. The {1} is upwind from you. It will take longer for your scent to reach it.</value>
+</text>
+<text>
+	<id>stalking_escape_climb</id>
+	<value>The {1} flows up a nearby Tree like Water, swiftly passing beyond the reach of your Body. If only you were better at climbing...</value>
+</text>
+<text>
+	<id>stalking_escape_burrow</id>
+	<value>The {1} disappears into a small entrance in the Earth, and the Great Mother holds it safely within Herself. If only you were a swift burrower...</value>
+</text>
+<text>
+	<id>stalking_escape_swim</id>
+	<value>With a lithe twist of its Body, the {1} disappears into deeper Water and is quickly out of your reach.</value>
+</text>
+<text>
+	<id>stalking_escape_fly</id>
+	<value>The {1} wings away, escaping your grasp.</value>
+</text>
+<text>
+	<id>stalking_strike_kill</id>
+	<value>You strike true, Destroying your prey in an instant. You feel a sense of pride and accomplishment in your skill.</value>
+</text>
+<text>
+	<id>stalking_strike_hit</id>
+	<value>Your prey yet lives. Finish it!</value>
+</text>
+<text>
+	<id>stalking_strike_miss</id>
+	<value>You missed your moment, but you are still close enough to Destroy it.</value>
+</text>
+<text>
+	<id>tutorial_ambush_click</id>
+	<value>Click when the circles align.</value>
+</text>
+<text>
+	<id>tutorial_ambush_fail_early</id>
+	<value>Too soon...</value>
+</text>
+<text>
+	<id>tutorial_ambush_now</id>
+	<value>Now!</value>
+</text>
+<text>
+	<id>tutorial_ambush_fail_late</id>
+	<value>Too late...</value>
+</text>
+<text>
+	<id>tutorial_chase_click</id>
+	<value>Click the Treetail repeatedly!</value>
+</text>
+<text>
+	<id>tutorial_chase_swipe</id>
+	<value>The Treetail is trying to evade. Swipe left or right to follow!</value>
+</text>
+<text>
+	<id>tutorial_chase_slash</id>
+	<value>Make a slash across the Treetail. Quickly!</value>
+</text>
+<text>
+	<id>death_standard_1</id>
+	<value>You have not lost.</value>
+</text>
+<text>
+	<id>death_standard_2</id>
+	<value>All life moves towards death.</value>
+</text>
+<text>
+	<id>death_standard_3</id>
+	<value>You have lived. With each step, each breath, each choice,\nthe world was changed by you, and remade anew.</value>
+</text>
+<text>
+	<id>death_standard_4</id>
+	<value>Your journey is complete.\nRest now in the Silence, and return to begin again.</value>
+</text>
+<text>
+	<id>death_standard_5</id>
+	<value>May you be blessed.</value>
+</text>
+<text>
+	<id>death_exile_1</id>
+	<value>Faced with a hopeless challenge,\nyou choose to abandon your home in the Great Green.</value>
+</text>
+<text>
+	<id>death_exile_2</id>
+	<value>As you go into exile, you look upon the Spiritwood,\nHeart of the Green, one final time.</value>
+</text>
+<text>
+	<id>death_exile_3</id>
+	<value>As you go into exile, you look upon the Spiritwood,\nHeart of the Green, one final time.</value>
+</text>
+<text>
+	<id>death_exile_4</id>
+	<value>With no home, your prospects are few.\nPerhaps your retreat was wise, perhaps foolish...</value>
+</text>
+<text>
+	<id>death_exile_5</id>
+	<value>But endings are only final if you allow them to be.\nPerhaps one day you will return to the Great Green.</value>
+</text>
+<text>
+	<id>death_exile_6</id>
+	<value>May you be blessed.</value>
+</text>
+<text>
+	<id>death_herb_1</id>
+	<value>The &lt;color rainbow&gt;Herb&lt;/color&gt;… it coats everything with the &lt;shift 20 .01&gt;flavor&lt;/shift&gt; of burning light and transforms every sound into &lt;shift 40 .02&gt;M&lt;/shift&gt;usic, every movement into a Dance of &lt;shift 20 .01&gt;Creation…&lt;/shift&gt;</value>
+</text>
+<text>
+	<id>death_herb_2</id>
+	<value>You can no longer think of anything else but returning to that &lt;shift 20 .01&gt;indescribable&lt;/shift&gt; place inside of its &lt;shift 20 .01&gt;t&lt;font LemonTuesday&gt;&lt;size 85&gt;end&lt;/size&gt;&lt;/font&gt;er &lt;color rainbow&gt;fibers&lt;/color&gt;&lt;/shift&gt;. The dull world into which you were born is no longer your home.</value>
+</text>
+<text>
+	<id>death_herb_3</id>
+	<value>You abandon your Lair, wandering Earth in search of more and more of the &lt;color rainbow&gt;&lt;shift 40 .02&gt;H&lt;/shift&gt;erb&lt;/color&gt;. Your territory is soon taken by another &lt;font Fluox&gt;&lt;size 90&gt;K&lt;/size&gt;&lt;/font&gt;in, &lt;shift 20 .01&gt;but you no longer care&lt;/shift&gt;.</value>
+</text>
+<text>
+	<id>death_herb_4</id>
+	<value>Hunting becomes difficult… you cannot easily distinguish between &lt;shift 40 .015&gt;realities…&lt;/shift&gt; and your B&lt;font Fluox&gt;&lt;size 90&gt;od&lt;/size&gt;&lt;/font&gt;y grows thin and weak.</value>
+</text>
+<text>
+	<id>death_herb_5</id>
+	<value>You are attacked many times by irate D&lt;font Fluox&gt;&lt;size 90&gt;raa&lt;/size&gt;&lt;/font&gt;k whose territories you wander into in search of your addiction, but the &lt;font LemonTuesday&gt;&lt;size 85&gt;pain&lt;/size&gt;&lt;/font&gt; of your wounds is turned to &lt;shift 20 .01&gt;&lt;font LemonTuesday&gt;&lt;size 85&gt;plea&lt;/size&gt;&lt;/font&gt;sure&lt;/shift&gt; by the &lt;color rainbow&gt;Herb&lt;/color&gt;.</value>
+</text>
+<text>
+	<id>death_herb_6</id>
+	<value>Eventually, your &lt;shift 20 .01&gt;Mind&lt;/shift&gt; loses everything you might use to define your&lt;shift 20 .01&gt;&lt;font LemonTuesday&gt;&lt;size 85&gt;self&lt;/size&gt;&lt;/font&gt;&lt;/shift&gt;, to separate your&lt;shift 20 .01&gt;&lt;font Fluox&gt;&lt;size 90&gt;self&lt;/size&gt;&lt;/font&gt;&lt;/shift&gt; from the world around you.</value>
+</text>
+<text>
+	<id>death_herb_7</id>
+	<value>Only two things are real: the &lt;font Fluox&gt;&lt;size 90&gt;bliss&lt;/size&gt;&lt;/font&gt; brought by the &lt;color rainbow&gt;Herb&lt;/color&gt;, your &lt;color rainbow&gt;One True Treasure&lt;/color&gt;, and the &lt;shift 40 .015&gt;&lt;font LemonTuesday&gt;&lt;size 85&gt;pain&lt;/size&gt;&lt;/font&gt;&lt;/shift&gt; of not having &lt;color rainbow&gt;it&lt;/color&gt;.</value>
+</text>
+<text>
+	<id>death_herb_8</id>
+	<value>When your &lt;shift 40 .015&gt;&lt;font LemonTuesday&gt;&lt;size 85&gt;end&lt;/size&gt;&lt;/font&gt;&lt;/shift&gt; at last comes, you do not even have the awareness to know that you have been consumed by your own Des&lt;shift 20 .01&gt;&lt;font Fluox&gt;&lt;size 90&gt;ire&lt;/size&gt;&lt;/font&gt;&lt;/shift&gt;...</value>
+</text>
+<text>
+	<id>death_herb_9</id>
+	<value>&lt;shift 30 .0125&gt;&lt;color rainbow&gt;And your last breath is a Song of Love for the very thing which has Destroyed you.&lt;/color&gt;&lt;/shift&gt;</value>
+</text>
+<text>
+	<id>demo_end</id>
+	<value>Thank you for sharing the story of your infancy with us.\n\nYour life as one of the blessed Kin,\nTrue Children of Above and Below, has only just begun.\n\nWe invite you to continue it in the full experience of\nGolden Treasure: The Great Green.</value>
+</text>
+<text>
+	<id>tell_bloom_base</id>
+	<value>&lt;chicken&gt;The Great Mother granted our Master power and endurance!</value>
+</text>
+<text>
+	<id>tell_bloom_flowingstrike</id>
+	<value>&lt;chicken&gt;Like a mighty River the Great One flowed, turning the enemy&apos;s rage back on itself!</value>
+</text>
+<text>
+	<id>tell_bloom_swiftstrike</id>
+	<value>&lt;chicken&gt;Like the alacritous zephyr, the Holy One dove through the Air at lightning speed!</value>
+</text>
+<text>
+	<id>tell_bloom_fire</id>
+	<value>&lt;chicken&gt;Our Exalted leader paused, and gathering up all its power, prepared to reduce its foe to ash!</value>
+</text>
+<text>
+	<id>tell_bloom_fireflash</id>
+	<value>&lt;chicken&gt;The foe seemed confident. Little did it know it would soon lose its sight…!</value>
+</text>
+<text>
+	<id>tell_bloom_pacify</id>
+	<value>&lt;chicken&gt;Such was the Enlightened One&apos;s power that, with only a few sigils, it could douse the flames of rage in its enemy and render it weak and docile!</value>
+</text>
+<text>
+	<id>tell_revenant_phase1</id>
+	<value>&lt;revenant&gt;AMUSE us… dance, SCREAM… we are FIRE, and you are DRY KINDLING… SO DRY… no WATER…&lt;/revenant&gt;\nSomehow, this thing has cut you off from your inner Water. You cannot feel its cool touch at all. You will have to face it without calling upon that element in any way.</value>
+</text>
+<text>
+	<id>tell_revenant_phase2</id>
+	<value>&lt;revenant&gt;RRRRRRRRRRRRRRRRRRRRRAAAAAGHHH! WE WILL NOT FADE AWAY! WE WILL NOT!</value>
+</text>
+<text>
+	<id>tell_whisper_base</id>
+	<value>&lt;whisper&gt;. . . . .&lt;/whisper&gt;</value>
+</text>
+<text>
+	<id>tell_whisper_air</id>
+	<value>&lt;whisper&gt;My Ruby Flames shall burn you to glowing ash.&lt;/whisper&gt;</value>
+</text>
+<text>
+	<id>tell_whisper_fire</id>
+	<value>&lt;whisper&gt;Let the Waves of my Wrath break over you and drown your miserable Essence.&lt;/whisper&gt;</value>
+</text>
+<text>
+	<id>tell_whisper_water</id>
+	<value>&lt;whisper&gt;I am like the High Wind, invisible, invulnerable. Feel my war-cry inside of your Mind.&lt;/whisper&gt;</value>
+</text>
+<text>
+	<id>lair_morning_act1</id>
+	<value>A new Sun has risen. You have marked it with a claw-mark upon the wall of your Den.\nYou may leave through the entrance to explore Heartbone Valley, or enter the dream-nook to rest.</value>
+</text>
+<text>
+	<id>lair_morning_act23</id>
+	<value>{ACT=2 A new Sun has risen. Your Song of Life continues.}{ACT=3 A new Sun has risen. Gather what Truths and Treasures you may before the upcoming Grand Moot.}</value>
+</text>
+<text>
+	<id>map_another_sun</id>
+	<value>Perhaps another Sun.</value>
+</text>
+<text>
+	<id>map_message_heartbone</id>
+	<value>This is Heartbone Valley, a land cleft by rivers which are three and yet one. It was formerly the territory of one of your Creators, but it was slain by the No-Tails, and they will surely Destroy you as well if you are found. Explore, hunt and gather Treasure, but do not stay too long; when you are satisfied, you must escape to the Great Green, the First Forest, the entrance to which lies riseward along the coldward fork of the river.</value>
+</text>
+<text>
+	<id>map_message_gga2</id>
+	<value>This is the Spiritwood, heart of the First Forest. Here, the old ways, the Laws of Tooth and Claw, still reign supreme. Life and Treasure both abound here; harvest them wisely. Four other Kin have realms which border yours, and meeting them, and the Great Green Spirit whose domain this is, may be wise before you fall into your next growth-sleep.</value>
+</text>
+<text>
+	<id>map_message_gga3</id>
+	<value>Now that you have at last mastered the Music of Air and can tread the sky-paths, you can travel great distances. Exploration on foot is no longer necessary, but you must learn of new locations before you can visit them. Now that you have grown, you may need more hunting grounds; challenge your neighbors to discover them and other adventures besides. Do not forget: the Grand Moot looms, and with it the end of this final chapter of the story of your youth.</value>
+</text>
+<text>
+	<id>confirmation_map_hunt</id>
+	<value>Would you like to hunt here for this Sun?</value>
+</text>
+<text>
+	<id>confirmation_map_darktooth</id>
+	<value>Call upon Darktooth?</value>
+</text>
+<text>
+	<id>confirmation_map_wisdom</id>
+	<value>Enter the Lair of Wisdom?</value>
+</text>
+<text>
+	<id>confirmation_map_generic</id>
+	<value>Would you like to investigate this area?</value>
+</text>
+<text>
+	<id>confirmation_map_vantage</id>
+	<value>Are you truly prepared to challenge Vantage, Ruby Lord of the Reach? A new hunting-ground and Treasure may be yours if you win, but the risk is very great.</value>
+</text>
+<text>
+	<id>confirmation_map_tempest</id>
+	<value>Are you truly prepared to challenge Tempest? A new lush hunting-ground and Treasure may be yours if you win, but the risk is very great.</value>
+</text>
+<text>
+	<id>confirmation_ui_newgame</id>
+	<value>开始新游戏将覆盖你当前的人生。\n(永久性的奖励和统计数据不会受到影响。)\n你确定要这样做吗？</value>
+</text>
+<text>
+	<id>confirmation_ui_skipchase</id>
+	<value>你想要禁用追逐场景吗？&lt;br&gt;&lt;br&gt;这将允许你跳过所有 3D 追逐场景，但是你永远无法捕捉到飞行能力比你更高的生物，也没有机会在战斗前扑向对手以对其造成伤害。&lt;br&gt;&lt;br&gt;你确实要关闭所有追逐场景吗？</value>
+</text>
+<text>
+	<id>confirmation_ui_quit</id>
+	<value>你确定要退出游戏吗？</value>
+</text>
+<text>
+	<id>confirmation_ui_cleardata</id>
+	<value>This will clear all persistent data, including tarot cards, the current save file, animal masteries, stored settings, etc. Are you certain you would like to do this?</value>
+</text>
+<text>
+	<id>region_heartbone_1</id>
+	<value>Treetails, Pricklebacks and even the occasional Darksweet can be found in this forest where you have made your first home. You will return here when Sun dies to rest, and your first adventures begin from this place.</value>
+</text>
+<text>
+	<id>region_heartbone_2</id>
+	<value>Following the coldward bank of the running water, you pass through lush meadows and tall, green grasses brimming with Tiny Beings. Where the two rivers become one, a deep pool calls for further exploration… you have heard of “swimming” but have not yet tried it. Perhaps it is time.</value>
+</text>
+<text>
+	<id>region_heartbone_3</id>
+	<value>Roaming further along the coldward bank of this part of the river brings you to a small lake. Charitable Water’s call brings many goodbeasts to this area, making it an excellent hunting ground for certain types of prey, but there may be other lessons here for a young Draak with an open Mind.</value>
+</text>
+<text>
+	<id>region_heartbone_4</id>
+	<value>You have reached the end of one of the two river-forks which give Heartbone Valley its name. Somewhere in this area lies the entrance to the deep forest, the Great Green, to which you must escape before the No-Tails find you. Do not tempt fate, but do not be too eager to leave; once you do, you may not return, and the opportunities for new knowledge and Treasure are many, both here and elsewhere in the Valley.</value>
+</text>
+<text>
+	<id>region_heartbone_5</id>
+	<value>Most days, these sunny meadows are filled with Sun-shine and Tiny Beings. A village of Longears resides below the knolls, and the riseward rocky area borders on the Elder named Darktooth&apos;s domain. It could be a valuable source of information and instruction, but no Kin aids another for free.</value>
+</text>
+<text>
+	<id>region_heartbone_6</id>
+	<value>Travelling riseward from the conflux reveals steep slopes and high hills. Rugged terrain such as this is not easy on the legs, but &quot;Treasure is Mountain&apos;s hatchling&quot; is a common saying among the Draak-kin. Might the rocky outcroppings hide precious shinestone, or perhaps something even more valuable?</value>
+</text>
+<text>
+	<id>region_heartbone_7</id>
+	<value>Following the warmward bank of one of the river-forks, the oily, smoky smell of the Tailless is carried on the wind. You are drawing near to one of their Hives. It is a dangerous land, but a bold Draak might learn something of their mysterious ways or steal food or even Treasure from them.</value>
+</text>
+<text>
+	<id>region_heartbone_8</id>
+	<value>Here lies the heart of the Tailless’ claim within great Darktooth’s territory. In these lands, the great diversity of the wild is outlawed; in fields of over-sharp geometry, only one kind of Plant grows at a time, the stench of the No-Tail Hive soaks the air, and most goodbeasts stay far away in fear of their lives. Neither the Tailless nor their slave-beasts will welcome you, and only the most bold (or reckless) of the Kin would look for knowledge or wealth here. Do you dare...?</value>
+</text>
+<text>
+	<id>region_gg_01</id>
+	<value>This is the Spiritwood, heart of the First Forest. Here, the old ways, the Laws of Tooth and Claw, still reign supreme. Life and Treasure both abound here; harvest them wisely. Four other Kin have realms which border yours, and meeting them, and the Great Green Spirit whose domain this is, may be wise before you fall into your next growth-sleep.</value>
+</text>
+<text>
+	<id>region_gg_02</id>
+	<value>This sacred cathedral of Trees, some of which are said to be as old as the Great Green itself, is known to all as the home of the Spirit of the Green. Its name is revered even by the Draak, and is the basis for the name of your entire territory. Only a fool would enter this area, the Sacred Glen, with anything but utmost respect and trepidation.</value>
+</text>
+<text>
+	<id>region_gg_03</id>
+	<value>Water is enamored of this area, and gathers in countless pools and marshes. Trees melt into tall Grasses and cotton-tailed Plants. This area is dangerously close to the huge marsh known as the Empire of Reeds, an area claimed by a Sapphire Kin as its home. You may hunt Water-beasts here or request an audience with the Reedlord, but perhaps other things may also be found in the wet and warmward Green.</value>
+</text>
+<text>
+	<id>region_gg_04</id>
+	<value>This is the approach to the high moor known as the Skyward Reach. Trees and thickets are rarer here, replaced by brown heather, steep slopes and heavy stones. A tribe of hardy (and tasty) Surefoots resides here, but hints of sulfur on the breeze suggest that you are nearing another Kin&apos;s domain. Tread softly.</value>
+</text>
+<text>
+	<id>region_gg_05</id>
+	<value>The Shallow River&apos;s several tendrils give this region its name: the Four Tails. It is a healthy and diverse area, with deep woodlands between bright hills which are beginning to brown as they approach the riseward moor. Surely there is something interesting to find here...</value>
+</text>
+<text>
+	<id>region_gg_06</id>
+	<value>The Shallow River becomes two here, and so the local goodbeasts often call this area the Split. This coldward edge of the Great Green is pleasant and fertile for the most part, but is also the part of your domain closest to the Tailless lands, though they are still quite far away. You may seek your fortunes here with little fear.</value>
+</text>
+<text>
+	<id>region_gg_07</id>
+	<value>This zone has been clearly scent-marked as the territory of the Clansingers, predatory furbeasts who fill the Green with their hymns. They have a reputation for courage and honor despite the fact that they hunt in groups, which some see as cheating. Their primary prey are the stocky Tusksnort People, whom you may also hunt here in the Packlands.</value>
+</text>
+<text>
+	<id>region_gg_08</id>
+	<value>Ancient trees shroud the ground in shadows here in the Deepwood. Though outrageously fertile, most larger beasts do not tarry long here for fear of bizarre forces at work. Where there is strangeness, there is danger, but also often Treasure. Will you dare to discover what is hidden here?</value>
+</text>
+<text>
+	<id>region_gg_09</id>
+	<value>The Riversedge area is the name often given to the land near the warmward bank of the Shallow River, the largest body of fresh water in the Great Green. The meadows here are home to Great Grazers, which are excellent to eat but very strong. You also smell the proximity of another Kin. Perhaps a visit to its territory on the coldward bank may be in order.</value>
+</text>
+<text>
+	<id>region_gg_10</id>
+	<value>This area has an odd topography; curiously regular hills dot the lightly-wooded vales, giving it its name: the Barrows. Hillbacks roam the misty land, and are said to be one of the finest meals a Kin can partake of, but even a full-grown Kin would not attack one of that doughty tribe unprepared.</value>
+</text>
+<text>
+	<id>region_gg_11</id>
+	<value>Warmward streams feed two larger bodies of Water in this area which borders the Heartwood. Their waters are pure and clean. Perhaps Treasure or prey may be found in the Twin Lakes.</value>
+</text>
+<text>
+	<id>region_gg_12</id>
+	<value>You have reached the edge of the Great Blue, said to coil around the world, home to many of the Sapphire Clan of the Kin. Hunting in the deeps is therefore unwise, but many goodbeasts of the land find the fresh breezes and broad meadows here pleasant, and may be hunted by an ambitious young Kin.</value>
+</text>
+<text>
+	<id>quote_intro_1</id>
+	<value>一个盒子，没有锁链、没有钥匙、没有盖子，</value>
+</text>
+<text>
+	<id>quote_intro_2</id>
+	<value>却有黄金般的财富藏于其中。</value>
+</text>
+<text>
+	<id>quote_intro_3</id>
+	<value>它是什么？</value>
+</text>
+<text>
+	<id>quote_intro_attribution</id>
+	<value>— 比尔博·巴金斯，《霍比特人》</value>
+</text>
+<text>
+	<id>quote_act1_title</id>
+	<value>Part 1</value>
+</text>
+<text>
+	<id>quote_act1_1</id>
+	<value>Happy those early days!</value>
+</text>
+<text>
+	<id>quote_act1_2</id>
+	<value>When on some gilded cloud or flower</value>
+</text>
+<text>
+	<id>quote_act1_3</id>
+	<value>My gazing soul would dwell an hour,</value>
+</text>
+<text>
+	<id>quote_act1_4</id>
+	<value>And in those weaker glories spy</value>
+</text>
+<text>
+	<id>quote_act1_5</id>
+	<value>Some shadows of eternity.</value>
+</text>
+<text>
+	<id>quote_act1_attribution</id>
+	<value>— Henry Vaughan, &quot;The Retreat&quot;</value>
+</text>
+<text>
+	<id>quote_act2_title</id>
+	<value>Part 2</value>
+</text>
+<text>
+	<id>quote_act2_1</id>
+	<value>For the structure that we raise,</value>
+</text>
+<text>
+	<id>quote_act2_2</id>
+	<value>Time is with materials filled;</value>
+</text>
+<text>
+	<id>quote_act2_3</id>
+	<value>Our todays and yesterdays</value>
+</text>
+<text>
+	<id>quote_act2_4</id>
+	<value>Are the blocks with which we build.</value>
+</text>
+<text>
+	<id>quote_act2_5</id>
+	<value>Thus alone can we attain</value>
+</text>
+<text>
+	<id>quote_act2_6</id>
+	<value>To those turrets, where the eye</value>
+</text>
+<text>
+	<id>quote_act2_7</id>
+	<value>Sees the world as one vast plain,</value>
+</text>
+<text>
+	<id>quote_act2_8</id>
+	<value>And one boundless reach of sky.</value>
+</text>
+<text>
+	<id>quote_act2_attribution</id>
+	<value>— H.W. Longfellow, &quot;The Builders&quot;</value>
+</text>
+<text>
+	<id>quote_act3_title</id>
+	<value>Part 3</value>
+</text>
+<text>
+	<id>quote_act3_1</id>
+	<value>Joy upon joy and gain upon gain</value>
+</text>
+<text>
+	<id>quote_act3_2</id>
+	<value>Are the destined rights of my birth,</value>
+</text>
+<text>
+	<id>quote_act3_3</id>
+	<value>And I shout the praise of my endless days</value>
+</text>
+<text>
+	<id>quote_act3_4</id>
+	<value>To the echoing edge of the earth.</value>
+</text>
+<text>
+	<id>quote_act3_5</id>
+	<value>For it is my world, my gorgeous world,</value>
+</text>
+<text>
+	<id>quote_act3_6</id>
+	<value>The world of my dear delight,</value>
+</text>
+<text>
+	<id>quote_act3_7</id>
+	<value>From the brightest gleam of the Arctic stream</value>
+</text>
+<text>
+	<id>quote_act3_8</id>
+	<value>To the dusk of my own love-night.</value>
+</text>
+<text>
+	<id>quote_act3_attribution</id>
+	<value>— Jack London</value>
+</text>
+<text>
+	<id>credits_scroll</id>
+	<value>&lt;size=200%&gt;龙族至宝&lt;/size&gt;\n广茂之绿\n\n\n\n&lt;b&gt;&lt;u&gt;编剧兼导演:&lt;/b&gt;&lt;/u&gt;\n&lt;font=&quot;exmouth_ SDF&quot;&gt;&lt;size=13&gt;Ludwig&lt;/size&gt;&lt;/font&gt;\n\n\n&lt;b&gt;&lt;u&gt;程序开发:&lt;/b&gt;&lt;/u&gt;\n&lt;font=&quot;Sorcery6128&quot;&gt;&lt;size=80%&gt;Isaac Sweet&lt;/size&gt;&lt;/font&gt;\n&lt;font=&quot;foglihtenNo07&quot;&gt;&lt;size=105%&gt;Jacob Marks&lt;/size&gt;&lt;/font&gt;\n&lt;font=&quot;euphorigenic&quot;&gt;&lt;size=100%&gt;Alex Lanzetta&lt;/font&gt;&lt;/size&gt;\n&lt;font=&quot;dumble&quot;&gt;&lt;size=1%&gt;Who is&lt;/size&gt;&lt;size=110%&gt;Bryce Evans&lt;/size&gt;&lt;size=1%&gt;?&lt;/size&gt;&lt;/font&gt;\n&lt;font=&quot;HLXing&quot;&gt;Riccardo Broccoletti&lt;/font&gt;\n\n\n&lt;b&gt;&lt;u&gt;美术：&lt;/b&gt;&lt;/u&gt;\n&lt;font=&quot;LemonTuesday&quot;&gt;&lt;size=110%&gt;Rachel Seeger&lt;/size&gt;&lt;/font&gt;\n&lt;font=&quot;y2kboogie&quot;&gt;Olivia Olson&lt;/font&gt;\n\n额外艺术作品：\nNeal Anderson, Diana Harlan Stein, Angie Gomez\n\n\n\n音乐创作者：Jim Gabriel\n\n音乐设计：&lt;font=&quot;VCR_OSD&quot;&gt;DYLAN PACKARD&lt;/font&gt;\n\n额外音乐设计：Daniel Braunstein\n\n\n\n西班牙语翻译：Marta Castelao Rodríguez-Gavela\n西班牙语测试：Alberto León Meaños\n\n\n中文本地化（官方）：\nYuqin Zhou, ScalesCarver, Rednut, Leo Chiang\n\n\n\n特别鸣谢：\nSebastian Knapp, Yuqin Zhou, Jim Stryker, Rebecca Price, Kyle Gibbs,\nMark Ludwig, Mars Ashton, Flej Hofolojolof, Lawrence Technological University, Team Critical Hit, Our Wonderful Beta Testers, our Mysterious Benefactor (ykwya), the Ann Arbor chapter of the International Game Developers Association, \nthe Cranbrook Educational Community…\n\n\n\n\n以及你。</value>
+</text>
+<text>
+	<id>credits_thanks</id>
+	<value>感谢你的游玩。</value>
+</text>
+<text>
+	<id>credits_thanks_demo</id>
+	<value>Thank you for playing.\n\nPlease consider sharing your thoughts with us at &lt;size 120&gt;&lt;color 3366ff&gt;&lt;underline&gt;www.dreamingdoor.net/gtdemo/survey/&lt;/underline&gt;&lt;/color&gt;&lt;/size&gt;</value>
+</text>
+<text>
+	<id>credits_ludwig_position</id>
+	<value>Writer, Director, Creator</value>
+</text>
+<text>
+	<id>credits_ludwig_quote</id>
+	<value>Wisdom, to attain the stars;\nCompassion, to be worthy of them;\nand Survival, without which all is silence.</value>
+</text>
+<text>
+	<id>credits_ludwig_music</id>
+	<value>Federic Chopin\nSergei Rachmaninoff\nMUSE\nVoces8\nThe Beatles</value>
+</text>
+<text>
+	<id>credits_ludwig_music_header</id>
+	<value>&lt;u&gt;Listens to:</value>
+</text>
+<text>
+	<id>credits_ludwig_games</id>
+	<value>Planescape: Torment\nKing of Dragon Pass\nThe Talos Principle\nEador: Genesis (NH Forever!)\nTo the Moon</value>
+</text>
+<text>
+	<id>credits_ludwig_games_header</id>
+	<value>&lt;u&gt;Plays:</value>
+</text>
+<text>
+	<id>credits_ludwig_inspirations</id>
+	<value>Hayao Miyazaki\nAkira Kurosawa\nLewis Carroll\nCarla Speed McNeil\nJosh Waitzkin</value>
+</text>
+<text>
+	<id>credits_ludwig_inspirations_header</id>
+	<value>&lt;u&gt;Inspired by:</value>
+</text>
+<text>
+	<id>credits_rseeger_position</id>
+	<value>Lead Artist</value>
+</text>
+<text>
+	<id>credits_rseeger_quote</id>
+	<value>*Hides under blanket*</value>
+</text>
+<text>
+	<id>credits_rseeger_music</id>
+	<value>SZA\nJanelle Monae\nFlorence + the Machine\nThe Hamilton Soundtrack\nNPR Tiny Desk Concerts</value>
+</text>
+<text>
+	<id>credits_rseeger_music_header</id>
+	<value>&lt;u&gt;Music that fueled this art:</value>
+</text>
+<text>
+	<id>credits_rseeger_drawn</id>
+	<value>Pop art ants\nOur alien overlords\nAnimal butts\nA bumblebee bear\nShadow children</value>
+</text>
+<text>
+	<id>credits_rseeger_drawn_header</id>
+	<value>&lt;u&gt;Things I never expected to draw:</value>
+</text>
+<text>
+	<id>credits_isaac_position</id>
+	<value>Lead Programmer</value>
+</text>
+<text>
+	<id>credits_isaac_quote</id>
+	<value>&quot;They say that structure is freedom, and in a sense it is.\nWhen you&apos;re dealing with multiple constraints,\nyou have to figure out what you can get out of that.&quot;\n\n -&lt;size=85%&gt; Demetri Martin</value>
+</text>
+<text>
+	<id>credits_isaac_games</id>
+	<value>Super Mario Odyssey\nSonic 3 and Knuckles\nThe Stanley Parable\nThe Binding of Isaac\nTimesplitters</value>
+</text>
+<text>
+	<id>credits_isaac_games_header</id>
+	<value>&lt;u&gt;Games on my mind:</value>
+</text>
+<text>
+	<id>credits_isaac_boardgames</id>
+	<value>Funemployed\nCosmic Encounter\nOne Night Ultimate Werewolf\nCarcassonne\nMysterium</value>
+</text>
+<text>
+	<id>credits_isaac_boardgames_header</id>
+	<value>Board games that\n&lt;u&gt;I bring to every party:&lt;/u&gt;</value>
+</text>
+<text>
+	<id>credits_isaac_music</id>
+	<value>Powerglove\nGhost\nWeird Al\nREO Speedwagon\nNeil Cicierega</value>
+</text>
+<text>
+	<id>credits_isaac_music_header</id>
+	<value>&lt;u&gt;Music I listen to:</value>
+</text>
+<text>
+	<id>credits_jacob_position</id>
+	<value>Programmer</value>
+</text>
+<text>
+	<id>credits_jacob_quote</id>
+	<value>&quot;If only I could be so grossly incandescent.&quot;\n \n &lt;size=80%&gt;- Solaire</value>
+</text>
+<text>
+	<id>credits_jacob_monsters</id>
+	<value>Aboleths\nDragons (surprise!)\nVampires\nMariliths\nKobolds</value>
+</text>
+<text>
+	<id>credits_jacob_monsters_header</id>
+	<value>&lt;u&gt;D&amp;D monsters I love:</value>
+</text>
+<text>
+	<id>credits_jacob_shows</id>
+	<value>Fate/Zero\nGame of Thrones\nFullmetal Alchemist: Brotherhood\nAvatar: The Last Airbender\nCode Geass</value>
+</text>
+<text>
+	<id>credits_jacob_shows_header</id>
+	<value>Shows that I&apos;ve\n&lt;u&gt;watched more than once:&lt;/u&gt;</value>
+</text>
+<text>
+	<id>credits_jacob_games</id>
+	<value>Dark Souls III\nDanganronpa 2\nWitcher 3: Wild Hunt\nDOOM 2016\nXCom: Enemy Unknown</value>
+</text>
+<text>
+	<id>credits_jacob_games_header</id>
+	<value>&lt;u&gt;Games I played too much:</value>
+</text>
+<text>
+	<id>credits_alex_position</id>
+	<value>Programmer</value>
+</text>
+<text>
+	<id>credits_alex_quote</id>
+	<value>I love my world being a pixel off,\nfor it pushes me to explore the seas.\nBut I wish not to challenge Impossible;\nI only ask to feel her wings&apos; breeze.</value>
+</text>
+<text>
+	<id>credits_alex_creations</id>
+	<value>Games that make me happy\nMusic that gives me energy\nArt that makes me think\nTools that help me create\nDreams that take me places</value>
+</text>
+<text>
+	<id>credits_alex_creations_header</id>
+	<value>&lt;u&gt;Things I love to create:</value>
+</text>
+<text>
+	<id>credits_alex_games</id>
+	<value>Frisbio\nSpike Tower\nLab Lights 2\nMaze of Mist\nIcy Dungeons</value>
+</text>
+<text>
+	<id>credits_alex_games_header</id>
+	<value>&lt;u&gt;Games I will make:</value>
+</text>
+<text>
+	<id>credits_alex_experiences</id>
+	<value>Ate sushi\nBecame an employee\nCompleted 3 in Three\nGraduated university\nShipped a commercial game</value>
+</text>
+<text>
+	<id>credits_alex_experiences_header</id>
+	<value>&lt;u&gt;Experiences during development:</value>
+</text>
+<text>
+	<id>credits_olson_position</id>
+	<value>Artist</value>
+</text>
+<text>
+	<id>credits_olson_quote</id>
+	<value>&quot;Stories may well be lies,\nbut they are good lies that say true things,\nand which can sometimes pay the rent.&quot;\n\n -&lt;size=85%&gt; Neil Gaiman</value>
+</text>
+<text>
+	<id>credits_olson_podcasts</id>
+	<value>My Brother, My Brother and Me\nWonderful\nLovett or Leave It\nDoes Critical Role Count?\nThe Adventure Zone</value>
+</text>
+<text>
+	<id>credits_olson_podcasts_header</id>
+	<value>&lt;u&gt;Podcasts I listened to while painting:</value>
+</text>
+<text>
+	<id>credits_olson_inspirations</id>
+	<value>Hayao Miyazaki\nMatt Rhodes\nAlexandria Neonakis\nClaire Hummel\nNoah Bradley</value>
+</text>
+<text>
+	<id>credits_olson_inspirations_header</id>
+	<value>&lt;u&gt;Artistic inspirations:</value>
+</text>
+<text>
+	<id>credits_olson_learned</id>
+	<value>Animal butts\nDappled sunlight\nWeird fish\nSPACE\nStained Glass</value>
+</text>
+<text>
+	<id>credits_olson_learned_header</id>
+	<value>Things this game\n&lt;u&gt;taught me to paint:&lt;/u&gt;</value>
+</text>
+<text>
+	<id>credits_dylan_position</id>
+	<value>Sound Engineering/Additional Music</value>
+</text>
+<text>
+	<id>credits_dylan_quote</id>
+	<value>&quot;It&apos;s not about what equipment you have,\nit&apos;s what you do with it...&quot;\n\n - &lt;size=80%&gt;Richard D. James&lt;/size&gt;</value>
+</text>
+<text>
+	<id>credits_dylan_equipment</id>
+	<value>Roland JX-3P\nRoland JD-800\nKorg DW-8000\nTascam 424 Mk1\nOtari MX-5050 Mk3</value>
+</text>
+<text>
+	<id>credits_dylan_equipment_header</id>
+	<value>&lt;u&gt;My favorite equipment:</value>
+</text>
+<text>
+	<id>credits_dylan_influences</id>
+	<value>Aphex Twin (RDJ)\nHerbie Hancock\nSergei Rachmaninoff\nSteve Reich\nVangelis</value>
+</text>
+<text>
+	<id>credits_dylan_influences_header</id>
+	<value>&lt;u&gt;My artist influences:</value>
+</text>
+<text>
+	<id>credits_dylan_albums</id>
+	<value>home (2016)\ndualtech (2019)\nLounge Life (2019)\nStruct (2019)\nSubclass (2017)</value>
+</text>
+<text>
+	<id>credits_dylan_albums_header</id>
+	<value>&lt;u&gt;Favorite albums I&apos;ve made:</value>
+</text>
+<text>
+	<id>credits_jgabriel_position</id>
+	<value>Composer</value>
+</text>
+<text>
+	<id>credits_jgabriel_albums</id>
+	<value>&quot;Sojourn&quot; and &quot;Into Eternity&quot; available on iTunes.</value>
+</text>
+<text>
+	<id>credits_contributors</id>
+	<value>Contributing Dreamers</value>
+</text>
+<text>
+	<id>credits_contributors_bryce_position</id>
+	<value>Additional Programming and Moral Support</value>
+</text>
+<text>
+	<id>credits_contributors_dan_position</id>
+	<value>Additional Sound Engineering</value>
+</text>
+<text>
+	<id>credits_contributors_neal_position</id>
+	<value>Additional Art</value>
+</text>
+<text>
+	<id>credits_contributors_angie_position</id>
+	<value>Additional Art</value>
+</text>
+<text>
+	<id>credits_contributors_diana_position</id>
+	<value>Additional Art</value>
+</text>
+<text>
+	<id>credits_contributors_nathan_position</id>
+	<value>Supplemental Part 2 Scripts</value>
+</text>
+<text>
+	<id>credits_apprentices</id>
+	<value>Awesome Apprentices</value>
+</text>
+<text>
+	<id>credits_sthanks</id>
+	<value>Special Thanks</value>
+</text>
+<text>
+	<id>credits_sthanks_betatesters</id>
+	<value>&lt;size=75%&gt;Our Wonderful Beta Testers</value>
+</text>
+<text>
+	<id>credits_vsthanks</id>
+	<value>Very special thanks:</value>
+</text>
+<text>
+	<id>credits_vsthanks_mark_desc</id>
+	<value>&lt;size=75%&gt;Professor, Colleague and Swell Guy&lt;/size&gt;</value>
+</text>
+<text>
+	<id>credits_vsthanks_and</id>
+	<value>&lt;size=100%&gt;and&lt;/size&gt;</value>
+</text>
+<text>
+	<id>credits_vsthanks_mysterious_benefactor</id>
+	<value>&lt;size=125%&gt;Our Mysterious Benefactor&lt;/size&gt;</value>
+</text>
+<text>
+	<id>credits_vsthanks_mysterious_benefactor_desc</id>
+	<value>&lt;size=75%&gt;Making the Dream Possible&lt;/size&gt;</value>
+</text>
+<text>
+	<id>credits_thanksforplaying_1</id>
+	<value>&lt;line-height=75%&gt;Thank you for playing Golden Treasure: The Great Green.</value>
+</text>
+<text>
+	<id>credits_thanksforplaying_2</id>
+	<value>To journey with you has been an honor.</value>
+</text>
+<text>
+	<id>credits_thanksforplaying_3</id>
+	<value>Do not forget: the true Golden Treasure is Life itself, no matter what form you wear.</value>
+</text>
+<text>
+	<id>credits_thanksforplaying_4</id>
+	<value>We hope you will join us as we continue the story of the Draak-Kin People.</value>
+</text>
+<text>
+	<id>credits_thanksforplaying_5</id>
+	<value>May you be blessed.</value>
+</text>
+</localization>
