@@ -19,9 +19,9 @@
 
 卸载方法
 
-    -解压缩，复制“协助”目录下的Golden Treasure - The Great Green_Data文件夹
+    -解压缩，复制“卸载”目录下的Golden Treasure - The Great Green_Data文件夹
     -定向到文件夹"X:\Steam\steamapps\common\Golden Treasure The Great Green"
-    -在该目录的空白位置粘贴。
+    -在该目录的空白位置粘贴，并在提示此目录存在相同文件时选择“替换”
     -完成。
 
 如果无效，在steam中选择“验证游戏文件的完整性”
