@@ -5,6 +5,8 @@
 
 本项目是一个对于Golden Treasure The Great Green的本地化方案，旨在尽可能保持游戏原生风格的同时实现完整本地化。
 
+*本项目已无限期暂停*
+
 更新日志：
 
     Version 0.1.0
